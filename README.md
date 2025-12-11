@@ -55,27 +55,27 @@ Even though Low Vendors’ median is slightly higher, the consistency of High Ve
 
 
 
-<img width="854" height="367" alt="image" src="https://github.com/user-attachments/assets/c0839745-4238-4ff3-b242-8550eff67e6c" />
+<img width="854" height="367" alt="image" src="https://github.com/user-attachments/assets/c0839745-4238-4ff3-b242-8550eff67e6c" /><br>
 
-<img width="702" height="365" alt="image" src="https://github.com/user-attachments/assets/1d01b6fe-17e5-43ed-9852-e11e5f495592" />
+<img width="702" height="365" alt="image" src="https://github.com/user-attachments/assets/1d01b6fe-17e5-43ed-9852-e11e5f495592" /><br>
 
-<img width="482" height="331" alt="image" src="https://github.com/user-attachments/assets/a1aa210d-b66c-4e7d-86ce-10645222f2b6" />
+<img width="482" height="331" alt="image" src="https://github.com/user-attachments/assets/a1aa210d-b66c-4e7d-86ce-10645222f2b6" /><br>
 
-High-performing vendors demonstrate reliability in profit margins, whereas low-performing vendors show unpredictable results, with both very low and very high extremes.
+High-performing vendors demonstrate reliability in profit margins, whereas low-performing vendors show unpredictable results, with both very low and very high extremes.<br>
 
-<img width="734" height="359" alt="image" src="https://github.com/user-attachments/assets/fd943e66-dd67-4c26-a9d6-53e809426b9a" />
-Sales initially experienced a sharp decline, but later stabilized and began following a consistent weekly seasonal pattern. The forecast indicates that sales will remain steady with regular fluctuations, though long-term uncertainty increases.
+<img width="734" height="359" alt="image" src="https://github.com/user-attachments/assets/fd943e66-dd67-4c26-a9d6-53e809426b9a" /><br>
+Sales initially experienced a sharp decline, but later stabilized and began following a consistent weekly seasonal pattern. The forecast indicates that sales will remain steady with regular fluctuations, though long-term uncertainty increases.<br>
 
-<img width="816" height="365" alt="image" src="https://github.com/user-attachments/assets/e01e370b-75df-44c8-b9af-99692ca456ff" />
+<img width="816" height="365" alt="image" src="https://github.com/user-attachments/assets/e01e370b-75df-44c8-b9af-99692ca456ff" /><br>
 
-I built a weekly sales forecasting model using Prophet. First, I aggregated daily sales into weekly totals and removed extreme outliers to ensure stability. I then applied a log-transform to the sales data to reduce the effect of large variations and trained the model on the most recent 19 weeks of data. Predictions were converted back to the original scale, and the model was evaluated on the last 4 weeks. The results showed strong accuracy, with a MAPE of 13.55%, indicating the model reliably captures the underlying sales trend and can be used for short-term forecasting
+I built a weekly sales forecasting model using Prophet. First, I aggregated daily sales into weekly totals and removed extreme outliers to ensure stability. I then applied a log-transform to the sales data to reduce the effect of large variations and trained the model on the most recent 19 weeks of data. Predictions were converted back to the original scale, and the model was evaluated on the last 4 weeks. The results showed strong accuracy, with a MAPE of 13.55%, indicating the model reliably captures the underlying sales trend and can be used for short-term forecasting<br>
 
 
 
 
    
 ##  Conclusion
-The analysis in this project demonstrated the power of analytical tools in transforming raw sales data into meaningful insights that can support better business decisions, improve operational efficiency, and drive overall sales performance.
+The analysis in this project demonstrated the power of analytical tools in transforming raw sales data into meaningful insights that can support better business decisions, improve operational efficiency, and drive overall sales performance.<br>
 
 **Shelby Adede**  
 - Data Analyst | Machine Learning Enthusiast  
