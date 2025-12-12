@@ -71,6 +71,9 @@ Sales initially experienced a sharp decline, but later stabilized and began foll
 ---
 
 <img width="816" height="365" alt="image" src="https://github.com/user-attachments/assets/e01e370b-75df-44c8-b9af-99692ca456ff" /><br>
+Dashboard <br>
+<img width="595" height="338" alt="image" src="https://github.com/user-attachments/assets/8911dba1-7bf1-4dc1-8460-14ceaf92c98a" />
+
 
 I built a weekly sales forecasting model using Prophet. First, I aggregated daily sales into weekly totals and removed extreme outliers to ensure stability. I then applied a log-transform to the sales data to reduce the effect of large variations and trained the model on the most recent 19 weeks of data. Predictions were converted back to the original scale, and the model was evaluated on the last 4 weeks. The results showed strong accuracy, with a MAPE of 13.55%, indicating the model reliably captures the underlying sales trend and can be used for short-term forecasting<br>
 ---
