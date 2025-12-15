@@ -91,7 +91,7 @@ This suggests that vendor reliability is driven not only by profitability but al
 <img width="734" height="359" alt="image" src="https://github.com/user-attachments/assets/fd943e66-dd67-4c26-a9d6-53e809426b9a" /><br>
 Sales initially experienced a sharp decline, but later stabilized and began following a consistent weekly seasonal pattern. The forecast indicates that sales will remain steady with regular fluctuations, though long-term uncertainty increases.<br>
 ---
-
+## Sales prediction
 <img width="816" height="365" alt="image" src="https://github.com/user-attachments/assets/e01e370b-75df-44c8-b9af-99692ca456ff" /><br>
 ## Dashboard <br>
 <img width="595" height="338" alt="image" src="https://github.com/user-attachments/assets/8911dba1-7bf1-4dc1-8460-14ceaf92c98a" />
