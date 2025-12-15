@@ -68,17 +68,22 @@ Reporting – summarized findings to support decision making
 ## Visualizations
 
 
-
+A bar chart showing units sold against Brand
 
 <img width="854" height="367" alt="image" src="https://github.com/user-attachments/assets/c0839745-4238-4ff3-b242-8550eff67e6c" /><br>
 ---
+This scatter plot illustrates the relationship between average inventory levels and inventory turnover across all items.
 
 <img width="702" height="365" alt="image" src="https://github.com/user-attachments/assets/1d01b6fe-17e5-43ed-9852-e11e5f495592" /><br>
+The visualization shows a strong concentration of items with high average inventory but very low turnover, indicating excess stock that is not converting into sales. Slow-moving goods are clustered near the lower turnover region, confirming that these items contribute significantly to inventory holding costs without generating proportional revenue.
 ---
+This box plot compares profit margin distributions between high-performing vendors and low-performing vendors.
 
 <img width="482" height="331" alt="image" src="https://github.com/user-attachments/assets/a1aa210d-b66c-4e7d-86ce-10645222f2b6" /><br>
 
 High-performing vendors demonstrate reliability in profit margins, whereas low-performing vendors show unpredictable results, with both very low and very high extremes.<br>
+
+This suggests that vendor reliability is driven not only by profitability but also by margin stability, making high-performing vendors more dependable for long-term procurement strategies.
 ---
 
 <img width="734" height="359" alt="image" src="https://github.com/user-attachments/assets/fd943e66-dd67-4c26-a9d6-53e809426b9a" /><br>
