@@ -16,41 +16,54 @@
 
 
 
-## OVERVIEW / OBJECTIVES
-To analyze and manage inventory, sales, and purchases data effectively in order to support business decisions, identify trends, and improve operational efficiency.
+## Overview / Objectives
+This project analyzes inventory, sales, and purchase data to support business decisions, identify trends, and improve operational efficiency. Insights from this analysis help optimize stock management, vendor performance, and overall sales strategy.
 ## Data Sources
-- `Dataset` —    
+- `Dataset` —   - Sales, Inventory, and Purchases CSV files provided by the companyhelp m 
 -
 ## Tools Used
 - Python (Jupyter Notebook)
 - Python (script)
-- Power BI
+- Power BI for dashboards and KPI visualization
 
   
   
   
   ##  Process
-1. Data Cleaning — handled missing values and removed duplicates  
-2. Exploratory Data Analysis (EDA) — visualized distributions and correlations  
-3. Visualization — built KPI dashboards in Power BI  
-4. Reporting — summarized findings for decision making
+Data Cleaning – handled missing values and removed duplicates
 
-  ## QUESTIONS (KPI)
-1. Who are the top ten vendors by total sales?
-2. Which are the underperforming  brands that require promotional adjustments?
-3. Why are they Underperforming?
-4.Assess inventory turnover to reduce holding costs and improve efficiency
-5. Impact of bulk purchasing on unit costs
-6. Investigating profitability varience between high performing and low performing vendors?
-7.  How much of total procurement is dependent on top vendors?
+Exploratory Data Analysis (EDA) – analyzed distributions, correlations, and outliers
+
+Visualization – built KPI dashboards and charts in Power BI
+
+Reporting – summarized findings to support decision making
+
+  Key Questions (KPI)
+
+1.Who are the top ten vendors by total sales?
+
+2.Which brands are underperforming and require promotional adjustments?
+
+3.What are the reasons behind underperformance?
+
+4.How can inventory turnover be optimized to reduce holding costs?
+
+5.What is the impact of bulk purchasing on unit costs?
+
+6.How does profitability vary between high-performing and low-performing vendors?
+
+7.How much of total procurement is dependent on top vendors?
 
  ## Key Insights
-1- Brands sell in low quantities since they have poor customer demand.
-2- Most brands are underperforming because they are not in customer demand so probably not purchasing them will be a greater benefit to the company as they hold up space
-3-Most of inventory sells well at low stock levels, but a small group of items is massively overstocked and barely selling — these are the biggest cost drivers and need immediate correction.
-4-High-performing vendors have stable profit margins despite high revenues.
- Low-performing vendors have unpredictable margins—some are very high, but others are very low. This variability could be risky.
-Even though Low Vendors’ median is slightly higher, the consistency of High Vendors makes them more reliable.
+1.Many brands sell in low quantities due to poor customer demand.
+
+2.Most underperforming brands occupy inventory space unnecessarily; reducing their stock can improve efficiency.
+
+3.High-performing items maintain steady sales even at low stock levels, while some overstocked items drive unnecessary costs.
+
+4.High-performing vendors maintain stable profit margins; low-performing vendors show unpredictable margins, posing risk.
+
+5.Although low-performing vendors have higher median profits, high-performing vendors are more consistent and reliable.
 
 
 
