@@ -97,6 +97,11 @@ Sales initially experienced a sharp decline, but later stabilized and began foll
 <img width="595" height="338" alt="image" src="https://github.com/user-attachments/assets/8911dba1-7bf1-4dc1-8460-14ceaf92c98a" />
 
  # PART 2  PREDICTIVE ANALYSIS
+
+ Weekly Sales Forecasting (Prophet)
+
+This project includes a standalone forecasting script (weekly_forecast.py) used to predict short-term weekly sales trends.
+
 A weekly sales forecasting model was built using Prophet:
 
 1.Aggregated daily sales into weekly totals
@@ -109,10 +114,25 @@ A weekly sales forecasting model was built using Prophet:
 
 5.Evaluated on the last 4 weeks (MAPE = 13.55%)
 
+Output:
+
+1.Forecasted weekly sales values
+
+2.Trend and seasonality visualization
+
+3.Model accuracy metrics for validation
+
+Forecasting logic is implemented in weekly_forecast.py.
+
 The model captures underlying trends accurately and provides reliable short-term sales forecasts.
+
+## How to run
+python weekly_forecast.py
+The script generates forecast plots and prints evaluation metrics to the console.
+
 ---
 
-
+The forecasting model achieved a MAPE of 13.55%, indicating strong short-term predictive reliability for weekly sales planning.
 
 
    
