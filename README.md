@@ -63,7 +63,9 @@ Reporting – summarized findings to support decision making
 
 4.High-performing vendors maintain stable profit margins; low-performing vendors show unpredictable margins, posing risk.
 
-5.Although low-performing vendors have higher median profits, high-performing vendors are more consistent and reliable.
+5.Although low-performing vendors have higher median profits, high-performing vendors are more consistent and reliable. <br> <br> <br>
+
+## Visualizations
 
 
 
