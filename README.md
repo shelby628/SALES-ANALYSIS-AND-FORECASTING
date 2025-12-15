@@ -1,3 +1,5 @@
+
+# PART 1
 # Sales Analysis 
 
 
@@ -94,8 +96,20 @@ Sales initially experienced a sharp decline, but later stabilized and began foll
 Dashboard <br>
 <img width="595" height="338" alt="image" src="https://github.com/user-attachments/assets/8911dba1-7bf1-4dc1-8460-14ceaf92c98a" />
 
+ # PART 2  PREDICTIVE ANALYSIS
+A weekly sales forecasting model was built using Prophet:
 
-I built a weekly sales forecasting model using Prophet. First, I aggregated daily sales into weekly totals and removed extreme outliers to ensure stability. I then applied a log-transform to the sales data to reduce the effect of large variations and trained the model on the most recent 19 weeks of data. Predictions were converted back to the original scale, and the model was evaluated on the last 4 weeks. The results showed strong accuracy, with a MAPE of 13.55%, indicating the model reliably captures the underlying sales trend and can be used for short-term forecasting<br>
+1.Aggregated daily sales into weekly totals
+
+2.Removed extreme outliers
+
+3.Applied log-transform to reduce the effect of large variations
+
+4.Trained on the most recent 19 weeks of data
+
+5.Evaluated on the last 4 weeks (MAPE = 13.55%)
+
+The model captures underlying trends accurately and provides reliable short-term sales forecasts.
 ---
 
 
@@ -103,7 +117,7 @@ I built a weekly sales forecasting model using Prophet. First, I aggregated dail
 
    
 ##  Conclusion
-The analysis in this project demonstrated the power of analytical tools in transforming raw sales data into meaningful insights that can support better business decisions, improve operational efficiency, and drive overall sales performance.<br>
+This analysis demonstrates how data-driven insights can optimize inventory, improve vendor management, and enhance overall sales performance. Combining Python, Power BI, and forecasting techniques provides actionable recommendations for better decision-making and operational efficiency..<br>
 
 **Shelby Adede**  
 - Data Analyst | Machine Learning Enthusiast  
