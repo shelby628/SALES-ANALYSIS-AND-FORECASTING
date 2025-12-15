@@ -93,7 +93,7 @@ Sales initially experienced a sharp decline, but later stabilized and began foll
 ---
 
 <img width="816" height="365" alt="image" src="https://github.com/user-attachments/assets/e01e370b-75df-44c8-b9af-99692ca456ff" /><br>
-Dashboard <br>
+## Dashboard <br>
 <img width="595" height="338" alt="image" src="https://github.com/user-attachments/assets/8911dba1-7bf1-4dc1-8460-14ceaf92c98a" />
 
  # PART 2  PREDICTIVE ANALYSIS
