@@ -139,6 +139,10 @@ The forecasting model achieved a MAPE of 13.55%, indicating strong short-term pr
 ##  Conclusion
 This analysis demonstrates how data-driven insights can optimize inventory, improve vendor management, and enhance overall sales performance. Combining Python, Power BI, and forecasting techniques provides actionable recommendations for better decision-making and operational efficiency..<br>
 
+I’m most proud of my Sales Analysis and Forecasting project, which I rebuilt multiple times before achieving the final solution. The dataset was large and messy, and I initially struggled with joins and aggregations when working in Jupyter Notebook. After several failed attempts, I recognized performance limitations and shifted the workload to MySQL.
+
+Through trial and error, I learned proper join strategies, implemented a star schema to eliminate duplication, and created SQL views to support analysis. This experience significantly improved my confidence in MySQL, Power BI, and analytical problem-solving, and reinforced the importance of choosing the right tool for the task.
+
 **Shelby Adede**  
 - Data Analyst | Machine Learning Enthusiast  
 -  shelbyadede@gmail.com  
